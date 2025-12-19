@@ -1,0 +1,7 @@
+{
+  "name": "Repository (my-bitkub-app)",
+  "description": "A high-fidelity replica of the Bitkub cryptocurrency exchange application, featuring real-time market simulation, trading interface, wallet management, and AI-powered market insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
